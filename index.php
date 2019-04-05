@@ -1,2 +1,2 @@
 <?php
-    echo 'php go 3';
+    echo 'php go 5';
